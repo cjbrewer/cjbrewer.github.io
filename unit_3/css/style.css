@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  color: #fff;
+  background: #000;
+  font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+  font-size: 80px
+	}
+hr {
+  width: 800px;
+}
+#slogan {background:blue url('hoop.jpg');
+  background-size: cover;
+	font-size: 50px;
+	font-weight: bold;
+	font-style: italic;}
+p {
+  font-size: 22px;
+}
+ul {
+	text-align: center;
+    list-style-type: none;
+}
+a {
+	color: inherit;
+}
