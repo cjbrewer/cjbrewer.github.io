@@ -1,0 +1,171 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster+Two:700i);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:300,800);
+
+
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+body {
+  color: #fff;
+  background-color: #000;
+  font-family: 'Montserrat 300', Arial, sans-serif;
+  font-size: 16px; /*1em = 16px*/
+  text-align: center;
+  position: relative;
+}
+
+header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding:0 200px;
+}
+
+nav{
+	background-color: #E8C66A;
+	margin:auto;
+}
+
+main{
+	background-color: #000;
+	color:#fff;
+	padding:50px 0;
+}
+
+section{
+	padding:50px 0;
+	background-color: #FFE2B8;
+}
+
+article {
+	background-color: #E89C6C;
+	padding: 20px 0;
+	border-bottom: 1px solid #ccc;
+}
+
+footer{
+	background-color: #FF957E;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color:#FFF;
+	padding:50px 0;
+}
+
+h1{
+	font-family: 'Lobster Two', sans-serif;
+	font-weight: normal;
+	font-size:100px;
+	text-align:center;
+	color:#fff;
+	margin:200px 0 0;
+}
+
+
+h2{font-family: 'Montserrat', 'Arial', sans-serif;
+	font-weight: 800;
+	font-size:3em;
+
+}
+
+h3{font-family: 'Montserrat', 'Arial', sans-serif;
+	font-weight: 800;
+	font-size:2em;
+}
+
+h4{font-family: 'Montserrat', 'Arial', sans-serif;
+	font-weight: 300;
+	font-size:1.5em;
+	text-align:center;
+}
+
+hr{
+	border:none;
+	height:3px;
+	background-color: #fff;
+	width:2em;
+	margin:1.5em auto;
+}
+
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	font-size:1em;
+	line-height: 1.5em;
+}
+
+ul{
+	list-style:none;
+}
+
+li{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+}
+
+a{
+	text-decoration:none;
+	color:#FFF;
+	border-bottom: 1px solid #000;
+	padding-bottom:2px;
+}
+
+img{
+	width:100%;
+}
+
+.navlinks{
+	font-family: 'Montserrat', sans-serif;
+	color:#fff;
+	text-transform: uppercase;
+	font-weight: 800;
+	letter-spacing: 2px;
+	
+
+	padding:20px;
+
+/*	padding-top: 10px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	padding-left: 40px;*/
+
+
+
+
+    margin: 0 20px;
+    border:none;
+    background-color: blue;
+}
+
+.acts{
+ 	width:30em;
+ 	margin:3em auto;
+ 	padding:20px;
+ 	background-color: #2f2f2f;
+}
+
+#lander{
+	background:url(../assets/hoop.jpg) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height:750px;
+	padding:20px 0;
+}
+
+#wrapper {
+	border: #FFF;
+	width: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+"#"{
+
+}
